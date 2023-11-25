@@ -7,3 +7,4 @@ thursday code
 firday code
 code
 happy thanksgiving
+thanksgiving weekend
