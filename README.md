@@ -8,3 +8,4 @@ firday code
 code
 happy thanksgiving
 thanksgiving weekend
+worked on react native
