@@ -32,3 +32,4 @@ Sunday House work
 Saturday React Native work
 Friday Family Emrg
 Tues plumbing work
+React Native use location 
